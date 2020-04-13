@@ -1,0 +1,224 @@
+{
+  "uid" : "936fd178d9667afe",
+  "name" : "test_modules",
+  "fullName" : "testcases.test_learn.Test_leaen#test_modules",
+  "historyId" : "7532d2ebcedba4cddcc2b0fa18679049",
+  "time" : {
+    "start" : 1586523099548,
+    "stop" : 1586523099611,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "session_fixtrue",
+    "time" : {
+      "start" : 1586523098267,
+      "stop" : 1586523098470,
+      "duration" : 203
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue6",
+    "time" : {
+      "start" : 1586523098877,
+      "stop" : 1586523098939,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue2",
+    "time" : {
+      "start" : 1586523098611,
+      "stop" : 1586523098674,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue8",
+    "time" : {
+      "start" : 1586523099002,
+      "stop" : 1586523099095,
+      "duration" : 93
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue5",
+    "time" : {
+      "start" : 1586523098814,
+      "stop" : 1586523098877,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue1",
+    "time" : {
+      "start" : 1586523098470,
+      "stop" : 1586523098549,
+      "duration" : 79
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue7",
+    "time" : {
+      "start" : 1586523098939,
+      "stop" : 1586523099002,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue10",
+    "time" : {
+      "start" : 1586523098549,
+      "stop" : 1586523098611,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue9",
+    "time" : {
+      "start" : 1586523099095,
+      "stop" : 1586523099173,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue3",
+    "time" : {
+      "start" : 1586523098674,
+      "stop" : 1586523098752,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue4",
+    "time" : {
+      "start" : 1586523098752,
+      "stop" : 1586523098814,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "查看学习"
+  }, {
+    "name" : "story",
+    "value" : "获取菜单"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_learn"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_leaen"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-938U3RR"
+  }, {
+    "name" : "thread",
+    "value" : "1648-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_learn"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "936fd178d9667afe.json",
+  "parameterValues" : [ ]
+}

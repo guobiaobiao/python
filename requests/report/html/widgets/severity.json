@@ -1,0 +1,181 @@
+[ {
+  "uid" : "b4cdf5f0235bed11",
+  "name" : "test_login_success",
+  "time" : {
+    "start" : 1586524527285,
+    "stop" : 1586524527379,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f2c58f753ad2dc3",
+  "name" : "test_judge_success",
+  "time" : {
+    "start" : 1586523619505,
+    "stop" : 1586523621254,
+    "duration" : 1749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "503be6327ba61606",
+  "name" : "test_time_success",
+  "time" : {
+    "start" : 1586524529253,
+    "stop" : 1586524529394,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e37591027cec2da3",
+  "name" : "test_courseRole",
+  "time" : {
+    "start" : 1586524526785,
+    "stop" : 1586524526848,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7a732e41e0e7b08",
+  "name" : "test_detail",
+  "time" : {
+    "start" : 1586524526848,
+    "stop" : 1586524526910,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43c04eb160e363af",
+  "name" : "test_chapters",
+  "time" : {
+    "start" : 1586524527004,
+    "stop" : 1586524527066,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec502d94dc28d5d9",
+  "name" : "test_recentLesson",
+  "time" : {
+    "start" : 1586524526723,
+    "stop" : 1586524526785,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "303e27fb5e0ef2de",
+  "name" : "test_modules",
+  "time" : {
+    "start" : 1586524526926,
+    "stop" : 1586524526988,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcbce28a5dd2e069",
+  "name" : "test_fail",
+  "time" : {
+    "start" : 1586517782624,
+    "stop" : 1586517782702,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb50054f47c9068a",
+  "name" : "test_run_success",
+  "time" : {
+    "start" : 1586524527535,
+    "stop" : 1586524529253,
+    "duration" : 1718
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcff74b7eed869a3",
+  "name" : "test_login_fail",
+  "time" : {
+    "start" : 1586524527394,
+    "stop" : 1586524527441,
+    "duration" : 47
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3586b45562734014",
+  "name" : "test_success",
+  "time" : {
+    "start" : 1586517782530,
+    "stop" : 1586517782624,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9bf01ac6e7ef965",
+  "name" : "test_myCourses",
+  "time" : {
+    "start" : 1586524526645,
+    "stop" : 1586524526707,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d661836d85ca4a6",
+  "name" : "test_trends",
+  "time" : {
+    "start" : 1586524526566,
+    "stop" : 1586524526645,
+    "duration" : 79
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50c5e16d3ac5b2f9",
+  "name" : "test_lesson",
+  "time" : {
+    "start" : 1586524527207,
+    "stop" : 1586524527285,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc42ed4164ff930f",
+  "name" : "test_judge_success",
+  "time" : {
+    "start" : 1586523621270,
+    "stop" : 1586523621332,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b29e02bbf5bcb176",
+  "name" : "test_chapterDetailself",
+  "time" : {
+    "start" : 1586524527082,
+    "stop" : 1586524527191,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6adb0ec78fd07d80",
+  "name" : "test_judge_success",
+  "time" : {
+    "start" : 1586524527457,
+    "stop" : 1586524527519,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,297 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录成功",
+    "children" : [ {
+      "name" : "登录成功",
+      "children" : [ {
+        "name" : "test_success",
+        "uid" : "3586b45562734014",
+        "parentUid" : "60d4c8f398bfaa4e88d608416cd6e94f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586517782530,
+          "stop" : 1586517782624,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_success",
+        "uid" : "b4cdf5f0235bed11",
+        "parentUid" : "60d4c8f398bfaa4e88d608416cd6e94f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527285,
+          "stop" : 1586524527379,
+          "duration" : 94
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "60d4c8f398bfaa4e88d608416cd6e94f"
+    }, {
+      "name" : "登录失败",
+      "children" : [ {
+        "name" : "test_fail",
+        "uid" : "fcbce28a5dd2e069",
+        "parentUid" : "8ddc030f143c935b3cd48826529d3c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586517782624,
+          "stop" : 1586517782702,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_fail",
+        "uid" : "bcff74b7eed869a3",
+        "parentUid" : "8ddc030f143c935b3cd48826529d3c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527394,
+          "stop" : 1586524527441,
+          "duration" : 47
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8ddc030f143c935b3cd48826529d3c74"
+    } ],
+    "uid" : "8ca294ffd9c7cbceb053dc545fb925eb"
+  }, {
+    "name" : "提交成功",
+    "children" : [ {
+      "name" : "提交成功",
+      "children" : [ {
+        "name" : "test_judge_success",
+        "uid" : "8f2c58f753ad2dc3",
+        "parentUid" : "0a47fde1bc5e059c2bd73ac1d69e2434",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586523619505,
+          "stop" : 1586523621254,
+          "duration" : 1749
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_judge_success",
+        "uid" : "dc42ed4164ff930f",
+        "parentUid" : "0a47fde1bc5e059c2bd73ac1d69e2434",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586523621270,
+          "stop" : 1586523621332,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_judge_success",
+        "uid" : "6adb0ec78fd07d80",
+        "parentUid" : "0a47fde1bc5e059c2bd73ac1d69e2434",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527457,
+          "stop" : 1586524527519,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0a47fde1bc5e059c2bd73ac1d69e2434"
+    } ],
+    "uid" : "c4b5cff7000467274842a2f719e76f1a"
+  }, {
+    "name" : "查看学习",
+    "children" : [ {
+      "name" : "查看学习动态成功",
+      "children" : [ {
+        "name" : "test_trends",
+        "uid" : "2d661836d85ca4a6",
+        "parentUid" : "eff838b79a2e85b77f757963f78cf94e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526566,
+          "stop" : 1586524526645,
+          "duration" : 79
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eff838b79a2e85b77f757963f78cf94e"
+    }, {
+      "name" : "获取课程列表",
+      "children" : [ {
+        "name" : "test_myCourses",
+        "uid" : "f9bf01ac6e7ef965",
+        "parentUid" : "66b717b6e9d0a71aed778519c89b53f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526645,
+          "stop" : 1586524526707,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "66b717b6e9d0a71aed778519c89b53f6"
+    }, {
+      "name" : "获取最近学习小节",
+      "children" : [ {
+        "name" : "test_recentLesson",
+        "uid" : "ec502d94dc28d5d9",
+        "parentUid" : "9138a8ccc14986644eefd36d0aef4b78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526723,
+          "stop" : 1586524526785,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9138a8ccc14986644eefd36d0aef4b78"
+    }, {
+      "name" : "获取课程角色",
+      "children" : [ {
+        "name" : "test_courseRole",
+        "uid" : "e37591027cec2da3",
+        "parentUid" : "95a229975be2b02896bb30409c9e84e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526785,
+          "stop" : 1586524526848,
+          "duration" : 63
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95a229975be2b02896bb30409c9e84e8"
+    }, {
+      "name" : "获取课程详情",
+      "children" : [ {
+        "name" : "test_detail",
+        "uid" : "f7a732e41e0e7b08",
+        "parentUid" : "bcddbe61bce07d494bf580f0892074b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526848,
+          "stop" : 1586524526910,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bcddbe61bce07d494bf580f0892074b1"
+    }, {
+      "name" : "获取菜单",
+      "children" : [ {
+        "name" : "test_modules",
+        "uid" : "303e27fb5e0ef2de",
+        "parentUid" : "3e8c6fad83327b74c0ee743f5befbb49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526926,
+          "stop" : 1586524526988,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e8c6fad83327b74c0ee743f5befbb49"
+    }, {
+      "name" : "获取大纲",
+      "children" : [ {
+        "name" : "test_chapters",
+        "uid" : "43c04eb160e363af",
+        "parentUid" : "c92efa65f5003f64113e62d202a03b7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527004,
+          "stop" : 1586524527066,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c92efa65f5003f64113e62d202a03b7f"
+    }, {
+      "name" : "获取章节",
+      "children" : [ {
+        "name" : "test_chapterDetailself",
+        "uid" : "b29e02bbf5bcb176",
+        "parentUid" : "64e7c7337403348a1755ea41727a77db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527082,
+          "stop" : 1586524527191,
+          "duration" : 109
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "64e7c7337403348a1755ea41727a77db"
+    }, {
+      "name" : "获取小节详情",
+      "children" : [ {
+        "name" : "test_lesson",
+        "uid" : "50c5e16d3ac5b2f9",
+        "parentUid" : "d0c297f2a00c05e37eda369370d8cd25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527207,
+          "stop" : 1586524527285,
+          "duration" : 78
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d0c297f2a00c05e37eda369370d8cd25"
+    } ],
+    "uid" : "20c4cf8a68bdd59ba9399bc0d0f2b087"
+  }, {
+    "name" : "运行成功",
+    "children" : [ {
+      "name" : "运行成功",
+      "children" : [ {
+        "name" : "test_run_success",
+        "uid" : "cb50054f47c9068a",
+        "parentUid" : "66c3d4f765cad2e1843828e704b1d26e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527535,
+          "stop" : 1586524529253,
+          "duration" : 1718
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "66c3d4f765cad2e1843828e704b1d26e"
+    } ],
+    "uid" : "dd44e774a1566a06f6a0c895e6a066f6"
+  }, {
+    "name" : "时间响应成功",
+    "children" : [ {
+      "name" : "时间响应成功",
+      "children" : [ {
+        "name" : "test_time_success",
+        "uid" : "503be6327ba61606",
+        "parentUid" : "0374ccfab86ec9cb64493c5e8d9ea3df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524529253,
+          "stop" : 1586524529394,
+          "duration" : 141
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0374ccfab86ec9cb64493c5e8d9ea3df"
+    } ],
+    "uid" : "b087df17b95ddb15fcbc93c3d6f20610"
+  } ]
+}

@@ -1,0 +1,224 @@
+{
+  "uid" : "264fc42aa49ad45c",
+  "name" : "test_judge_success",
+  "fullName" : "testcases.learing.test_learing_judge.Test_learing_judge#test_judge_success",
+  "historyId" : "6fc3d253f2b5166f2bbd1adaff743ba6",
+  "time" : {
+    "start" : 1586521926737,
+    "stop" : 1586521926800,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "session_fixtrue1",
+    "time" : {
+      "start" : 1586521925113,
+      "stop" : 1586521925207,
+      "duration" : 94
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue2",
+    "time" : {
+      "start" : 1586521925269,
+      "stop" : 1586521925332,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue6",
+    "time" : {
+      "start" : 1586521925519,
+      "stop" : 1586521925581,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue3",
+    "time" : {
+      "start" : 1586521925332,
+      "stop" : 1586521925394,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue",
+    "time" : {
+      "start" : 1586521924972,
+      "stop" : 1586521925113,
+      "duration" : 141
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue7",
+    "time" : {
+      "start" : 1586521925581,
+      "stop" : 1586521925644,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue8",
+    "time" : {
+      "start" : 1586521925644,
+      "stop" : 1586521925738,
+      "duration" : 94
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue9",
+    "time" : {
+      "start" : 1586521925738,
+      "stop" : 1586521925831,
+      "duration" : 93
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue10",
+    "time" : {
+      "start" : 1586521925207,
+      "stop" : 1586521925269,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue4",
+    "time" : {
+      "start" : 1586521925394,
+      "stop" : 1586521925456,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue5",
+    "time" : {
+      "start" : 1586521925456,
+      "stop" : 1586521925519,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "提交成功"
+  }, {
+    "name" : "story",
+    "value" : "提交成功"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.learing"
+  }, {
+    "name" : "suite",
+    "value" : "test_learing_judge"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_learing_judge"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-938U3RR"
+  }, {
+    "name" : "thread",
+    "value" : "8904-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.learing.test_learing_judge"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "264fc42aa49ad45c.json",
+  "parameterValues" : [ ]
+}

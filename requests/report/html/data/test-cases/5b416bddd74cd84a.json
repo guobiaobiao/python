@@ -1,0 +1,108 @@
+{
+  "uid" : "5b416bddd74cd84a",
+  "name" : "test_login_fail",
+  "fullName" : "testcases.test_login.Test_login#test_login_fail",
+  "historyId" : "faaf16db42328d14a17b9143c87594f2",
+  "time" : {
+    "start" : 1586522703397,
+    "stop" : 1586522703397,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'date3'",
+  "statusTrace" : "@pytest.fixture(scope='session',autouse=True)\n    def session_fixtrue10():\n        path='/api/learning/v3/judge'\n>       date=date1[\"date3\"]\nE       KeyError: 'date3'\n\nconftest.py:80: KeyError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "session_fixtrue1",
+    "time" : {
+      "start" : 1586522703069,
+      "stop" : 1586522703147,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue",
+    "time" : {
+      "start" : 1586522702866,
+      "stop" : 1586522703069,
+      "duration" : 203
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue10",
+    "time" : {
+      "start" : 1586522703147,
+      "stop" : 1586522703147,
+      "duration" : 0
+    },
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'date3'\n",
+    "statusTrace" : "  File \"C:\\Users\\GuoBiaoBiao\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\pluggy\\callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"C:\\Users\\GuoBiaoBiao\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\_pytest\\fixtures.py\", line 964, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"C:\\Users\\GuoBiaoBiao\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\_pytest\\fixtures.py\", line 792, in call_fixture_func\n    res = fixturefunc(**kwargs)\n  File \"D:\\PyCharm\\PycharmProjects\\requests\\conftest.py\", line 80, in session_fixtrue10\n    date=date1[\"date3\"]\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录成功"
+  }, {
+    "name" : "story",
+    "value" : "登录失败"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-938U3RR"
+  }, {
+    "name" : "thread",
+    "value" : "4472-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b416bddd74cd84a.json",
+  "parameterValues" : [ ]
+}

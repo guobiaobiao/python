@@ -1,0 +1,485 @@
+{
+  "uid" : "b29e02bbf5bcb176",
+  "name" : "test_chapterDetailself",
+  "fullName" : "testcases.test_learn.Test_leaen#test_chapterDetailself",
+  "historyId" : "49b8b233a1779a260f4d98b3869b55e1",
+  "time" : {
+    "start" : 1586524527082,
+    "stop" : 1586524527191,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "session_fixtrue11",
+    "time" : {
+      "start" : 1586524524176,
+      "stop" : 1586524525879,
+      "duration" : 1703
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue8",
+    "time" : {
+      "start" : 1586524526363,
+      "stop" : 1586524526488,
+      "duration" : 125
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue12",
+    "time" : {
+      "start" : 1586524525879,
+      "stop" : 1586524525957,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue4",
+    "time" : {
+      "start" : 1586524526098,
+      "stop" : 1586524526160,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue1",
+    "time" : {
+      "start" : 1586524524052,
+      "stop" : 1586524524130,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue3",
+    "time" : {
+      "start" : 1586524526020,
+      "stop" : 1586524526098,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue7",
+    "time" : {
+      "start" : 1586524526301,
+      "stop" : 1586524526363,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue10",
+    "time" : {
+      "start" : 1586524524130,
+      "stop" : 1586524524176,
+      "duration" : 46
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue5",
+    "time" : {
+      "start" : 1586524526160,
+      "stop" : 1586524526223,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue",
+    "time" : {
+      "start" : 1586524523895,
+      "stop" : 1586524524052,
+      "duration" : 157
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue2",
+    "time" : {
+      "start" : 1586524525957,
+      "stop" : 1586524526020,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue6",
+    "time" : {
+      "start" : 1586524526223,
+      "stop" : 1586524526301,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue9",
+    "time" : {
+      "start" : 1586524526488,
+      "stop" : 1586524526566,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "查看学习"
+  }, {
+    "name" : "story",
+    "value" : "获取章节"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_learn"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_leaen"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-938U3RR"
+  }, {
+    "name" : "thread",
+    "value" : "9128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_learn"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "630cd6ffa77cf601",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586524503389,
+        "stop" : 1586524503483,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "54d96a5f17c0522b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586524118663,
+        "stop" : 1586524118757,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "65bf08d86a2e4d43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523619005,
+        "stop" : 1586523619114,
+        "duration" : 109
+      }
+    }, {
+      "uid" : "b37018942c214572",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523476960,
+        "stop" : 1586523477085,
+        "duration" : 125
+      }
+    }, {
+      "uid" : "a082515f58eff2cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523452653,
+        "stop" : 1586523452747,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "a605125f8bf27f41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523408632,
+        "stop" : 1586523408741,
+        "duration" : 109
+      }
+    }, {
+      "uid" : "4d977742e70da50d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523352973,
+        "stop" : 1586523353067,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "417902a9a6343d34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523288551,
+        "stop" : 1586523288645,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "c149138955b78e49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523249966,
+        "stop" : 1586523250060,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "d7d49f9edf337d1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523204711,
+        "stop" : 1586523204836,
+        "duration" : 125
+      }
+    }, {
+      "uid" : "9dcfa9e8aaac3c9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523148834,
+        "stop" : 1586523148927,
+        "duration" : 93
+      }
+    }, {
+      "uid" : "796d4ee5f76ba216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523099689,
+        "stop" : 1586523099798,
+        "duration" : 109
+      }
+    }, {
+      "uid" : "aedc3393d7f42fef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523064869,
+        "stop" : 1586523064963,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "f9e0defeb334ca57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586522773896,
+        "stop" : 1586522773990,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "61a38e9b4b0d0f87",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'date3'",
+      "time" : {
+        "start" : 1586522703366,
+        "stop" : 1586522703366,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ad085854ebb0c8cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586522545840,
+        "stop" : 1586522545934,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "af07ce16998502e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586522454486,
+        "stop" : 1586522454565,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "2c7a516f99f0ffd4",
+      "status" : "broken",
+      "statusDetails" : "TypeError: request() got an unexpected keyword argument 'date'",
+      "time" : {
+        "start" : 1586522122333,
+        "stop" : 1586522122333,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "466a1c4b975247e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586521926362,
+        "stop" : 1586521926441,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "94503ee65aca765",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586521829432,
+        "stop" : 1586521829526,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "a00f39170d9902a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586521803766,
+        "stop" : 1586521803876,
+        "duration" : 110
+      }
+    }, {
+      "uid" : "bc7efdee5c226578",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586521687200,
+        "stop" : 1586521687278,
+        "duration" : 78
+      }
+    }, {
+      "uid" : "5cd2355aac7038cb",
+      "status" : "broken",
+      "statusDetails" : "TypeError: unhashable type: 'dict'",
+      "time" : {
+        "start" : 1586521603782,
+        "stop" : 1586521603782,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d0d2e2e3411d02d9",
+      "status" : "broken",
+      "statusDetails" : "TypeError: unhashable type: 'dict'",
+      "time" : {
+        "start" : 1586521517005,
+        "stop" : 1586521517005,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "697b8fc171e545ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586517782327,
+        "stop" : 1586517782421,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "50dcc0ad6dc275d8",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False == True",
+      "time" : {
+        "start" : 1586517733714,
+        "stop" : 1586517733761,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "c3804caeac28e867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586517498747,
+        "stop" : 1586517498840,
+        "duration" : 93
+      }
+    }, {
+      "uid" : "a57c7c52d7e3f3a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586517366518,
+        "stop" : 1586517366627,
+        "duration" : 109
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b29e02bbf5bcb176.json",
+  "parameterValues" : [ ]
+}

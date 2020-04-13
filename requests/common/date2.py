@@ -1,0 +1,1 @@
+date2={"date2":{"courseId":"176","lessonId":"nian-ling-huan-suan","exerciseId":"5e450f974f503a0470aa8dad","language":"java","code":"import java.util.Scanner;\n\npublic class Program {\n  public static void main(String[] args) {\n      \n  }\n}","stdin":"2"}}

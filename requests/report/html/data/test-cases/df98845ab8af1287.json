@@ -1,0 +1,108 @@
+{
+  "uid" : "df98845ab8af1287",
+  "name" : "test_login_fail",
+  "fullName" : "testcases.test_login.Test_login#test_login_fail",
+  "historyId" : "faaf16db42328d14a17b9143c87594f2",
+  "time" : {
+    "start" : 1586521603813,
+    "stop" : 1586521603813,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: unhashable type: 'dict'",
+  "statusTrace" : "@pytest.fixture(scope='session',autouse=True)\n    def session_fixtrue10():\n        path='/api/learning/v3/judge'\n>       date4=date1[date1]\nE       TypeError: unhashable type: 'dict'\n\nconftest.py:80: TypeError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "session_fixtrue1",
+    "time" : {
+      "start" : 1586521603532,
+      "stop" : 1586521603610,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue10",
+    "time" : {
+      "start" : 1586521603610,
+      "stop" : 1586521603610,
+      "duration" : 0
+    },
+    "status" : "broken",
+    "statusMessage" : "TypeError: unhashable type: 'dict'\n",
+    "statusTrace" : "  File \"C:\\Users\\GuoBiaoBiao\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\pluggy\\callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"C:\\Users\\GuoBiaoBiao\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\_pytest\\fixtures.py\", line 964, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"C:\\Users\\GuoBiaoBiao\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\_pytest\\fixtures.py\", line 792, in call_fixture_func\n    res = fixturefunc(**kwargs)\n  File \"D:\\PyCharm\\PycharmProjects\\requests\\conftest.py\", line 80, in session_fixtrue10\n    date4=date1[date1]\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue",
+    "time" : {
+      "start" : 1586521603376,
+      "stop" : 1586521603532,
+      "duration" : 156
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录失败"
+  }, {
+    "name" : "feature",
+    "value" : "登录成功"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-938U3RR"
+  }, {
+    "name" : "thread",
+    "value" : "11124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df98845ab8af1287.json",
+  "parameterValues" : [ ]
+}

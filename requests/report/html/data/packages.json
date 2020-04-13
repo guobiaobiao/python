@@ -1,0 +1,249 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "test_success",
+        "uid" : "3586b45562734014",
+        "parentUid" : "b3d5adb854320b63d55d1c2a744273d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586517782530,
+          "stop" : 1586517782624,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_fail",
+        "uid" : "fcbce28a5dd2e069",
+        "parentUid" : "b3d5adb854320b63d55d1c2a744273d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586517782624,
+          "stop" : 1586517782702,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_success",
+        "uid" : "b4cdf5f0235bed11",
+        "parentUid" : "b3d5adb854320b63d55d1c2a744273d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527285,
+          "stop" : 1586524527379,
+          "duration" : 94
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_fail",
+        "uid" : "bcff74b7eed869a3",
+        "parentUid" : "b3d5adb854320b63d55d1c2a744273d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527394,
+          "stop" : 1586524527441,
+          "duration" : 47
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b3d5adb854320b63d55d1c2a744273d6"
+    }, {
+      "name" : "learing",
+      "children" : [ {
+        "name" : "test_learing_run",
+        "children" : [ {
+          "name" : "test_judge_success",
+          "uid" : "8f2c58f753ad2dc3",
+          "parentUid" : "f570fb1d37f93b6e9e4dff2b300d2350",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586523619505,
+            "stop" : 1586523621254,
+            "duration" : 1749
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_run_success",
+          "uid" : "cb50054f47c9068a",
+          "parentUid" : "f570fb1d37f93b6e9e4dff2b300d2350",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586524527535,
+            "stop" : 1586524529253,
+            "duration" : 1718
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f570fb1d37f93b6e9e4dff2b300d2350"
+      }, {
+        "name" : "test_learing_time",
+        "children" : [ {
+          "name" : "test_judge_success",
+          "uid" : "dc42ed4164ff930f",
+          "parentUid" : "07108c837f1ef67676e7f49bb61ac5f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586523621270,
+            "stop" : 1586523621332,
+            "duration" : 62
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_time_success",
+          "uid" : "503be6327ba61606",
+          "parentUid" : "07108c837f1ef67676e7f49bb61ac5f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586524529253,
+            "stop" : 1586524529394,
+            "duration" : 141
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "07108c837f1ef67676e7f49bb61ac5f5"
+      }, {
+        "name" : "test_learing_judge",
+        "children" : [ {
+          "name" : "test_judge_success",
+          "uid" : "6adb0ec78fd07d80",
+          "parentUid" : "87482b45f84295b6b0d9bbfb6b35cb58",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586524527457,
+            "stop" : 1586524527519,
+            "duration" : 62
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "87482b45f84295b6b0d9bbfb6b35cb58"
+      } ],
+      "uid" : "469009a2ebc6bce8fad3171cce0e901c"
+    }, {
+      "name" : "test_learn",
+      "children" : [ {
+        "name" : "test_trends",
+        "uid" : "2d661836d85ca4a6",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526566,
+          "stop" : 1586524526645,
+          "duration" : 79
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_myCourses",
+        "uid" : "f9bf01ac6e7ef965",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526645,
+          "stop" : 1586524526707,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_recentLesson",
+        "uid" : "ec502d94dc28d5d9",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526723,
+          "stop" : 1586524526785,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_courseRole",
+        "uid" : "e37591027cec2da3",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526785,
+          "stop" : 1586524526848,
+          "duration" : 63
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_detail",
+        "uid" : "f7a732e41e0e7b08",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526848,
+          "stop" : 1586524526910,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_modules",
+        "uid" : "303e27fb5e0ef2de",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524526926,
+          "stop" : 1586524526988,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_chapters",
+        "uid" : "43c04eb160e363af",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527004,
+          "stop" : 1586524527066,
+          "duration" : 62
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_chapterDetailself",
+        "uid" : "b29e02bbf5bcb176",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527082,
+          "stop" : 1586524527191,
+          "duration" : 109
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_lesson",
+        "uid" : "50c5e16d3ac5b2f9",
+        "parentUid" : "025ccff62b8e1939ec33ea13ed51e091",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586524527207,
+          "stop" : 1586524527285,
+          "duration" : 78
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "025ccff62b8e1939ec33ea13ed51e091"
+    } ],
+    "uid" : "141fa05f02bf329144b0086cf92149a8"
+  } ]
+}

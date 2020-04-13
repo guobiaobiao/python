@@ -1,0 +1,485 @@
+{
+  "uid" : "f9bf01ac6e7ef965",
+  "name" : "test_myCourses",
+  "fullName" : "testcases.test_learn.Test_leaen#test_myCourses",
+  "historyId" : "8f909efbf147e13c6bc46f1621524984",
+  "time" : {
+    "start" : 1586524526645,
+    "stop" : 1586524526707,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "session_fixtrue11",
+    "time" : {
+      "start" : 1586524524176,
+      "stop" : 1586524525879,
+      "duration" : 1703
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue8",
+    "time" : {
+      "start" : 1586524526363,
+      "stop" : 1586524526488,
+      "duration" : 125
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue12",
+    "time" : {
+      "start" : 1586524525879,
+      "stop" : 1586524525957,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue4",
+    "time" : {
+      "start" : 1586524526098,
+      "stop" : 1586524526160,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue1",
+    "time" : {
+      "start" : 1586524524052,
+      "stop" : 1586524524130,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue3",
+    "time" : {
+      "start" : 1586524526020,
+      "stop" : 1586524526098,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue7",
+    "time" : {
+      "start" : 1586524526301,
+      "stop" : 1586524526363,
+      "duration" : 62
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue10",
+    "time" : {
+      "start" : 1586524524130,
+      "stop" : 1586524524176,
+      "duration" : 46
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue5",
+    "time" : {
+      "start" : 1586524526160,
+      "stop" : 1586524526223,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue",
+    "time" : {
+      "start" : 1586524523895,
+      "stop" : 1586524524052,
+      "duration" : 157
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue2",
+    "time" : {
+      "start" : 1586524525957,
+      "stop" : 1586524526020,
+      "duration" : 63
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue6",
+    "time" : {
+      "start" : 1586524526223,
+      "stop" : 1586524526301,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session_fixtrue9",
+    "time" : {
+      "start" : 1586524526488,
+      "stop" : 1586524526566,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "获取课程列表"
+  }, {
+    "name" : "feature",
+    "value" : "查看学习"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_learn"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_leaen"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-938U3RR"
+  }, {
+    "name" : "thread",
+    "value" : "9128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_learn"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e8e953e6fff8a332",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586524502936,
+        "stop" : 1586524502998,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "6ec48202bc804880",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586524118194,
+        "stop" : 1586524118257,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "60d998d569243244",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523618505,
+        "stop" : 1586523618567,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "d36a744b057a8b28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523476507,
+        "stop" : 1586523476585,
+        "duration" : 78
+      }
+    }, {
+      "uid" : "d03fdb170422bfd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523452200,
+        "stop" : 1586523452263,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "a45763aa66e97658",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523408242,
+        "stop" : 1586523408289,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "fb47b08e9b13c6f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523352536,
+        "stop" : 1586523352598,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "895cbe1ba07805f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523288114,
+        "stop" : 1586523288160,
+        "duration" : 46
+      }
+    }, {
+      "uid" : "62bce9801cefc9fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523249513,
+        "stop" : 1586523249591,
+        "duration" : 78
+      }
+    }, {
+      "uid" : "8b622f732699cc73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523204289,
+        "stop" : 1586523204352,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "73d4831dbc49f7b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523148474,
+        "stop" : 1586523148521,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "13e48f242beba1be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523099252,
+        "stop" : 1586523099314,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "78630bdd6a1faee2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586523064447,
+        "stop" : 1586523064510,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "ff22d0cd22b25120",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586522773459,
+        "stop" : 1586522773506,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "e52bd3eb08167392",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'date3'",
+      "time" : {
+        "start" : 1586522703303,
+        "stop" : 1586522703303,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e676cb4aaaaa47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586522545387,
+        "stop" : 1586522545450,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "6ad1b66f18d243d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586522454127,
+        "stop" : 1586522454190,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "15614bf27f5753f1",
+      "status" : "broken",
+      "statusDetails" : "TypeError: request() got an unexpected keyword argument 'date'",
+      "time" : {
+        "start" : 1586522122192,
+        "stop" : 1586522122192,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aa0609e192418c71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586521925909,
+        "stop" : 1586521925988,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "2abd10793d91c1d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586521828979,
+        "stop" : 1586521829042,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "97258cd9d36a24be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586521803345,
+        "stop" : 1586521803407,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "4756e9cb49850d38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586521686763,
+        "stop" : 1586521686825,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "c0f94506d5cafba",
+      "status" : "broken",
+      "statusDetails" : "TypeError: unhashable type: 'dict'",
+      "time" : {
+        "start" : 1586521603735,
+        "stop" : 1586521603735,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3f469a6f1ef138db",
+      "status" : "broken",
+      "statusDetails" : "TypeError: unhashable type: 'dict'",
+      "time" : {
+        "start" : 1586521516958,
+        "stop" : 1586521516958,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aa07f3e5e67d7e4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586517781859,
+        "stop" : 1586517781921,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "dfa4b293caceb52e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False == True",
+      "time" : {
+        "start" : 1586517733308,
+        "stop" : 1586517733355,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "a008ae9f175ffdae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586517498262,
+        "stop" : 1586517498309,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "8c393f974d9573b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586517366049,
+        "stop" : 1586517366112,
+        "duration" : 63
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9bf01ac6e7ef965.json",
+  "parameterValues" : [ ]
+}
