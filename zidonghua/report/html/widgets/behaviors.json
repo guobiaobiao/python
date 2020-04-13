@@ -1,0 +1,26 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "32c02cc330f3250085cd57cce54fa685",
+    "name" : "用户功能",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "bcb934490d85126a87af7ca694509e92",
+    "name" : "百度搜索设置",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,101 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_answer",
+    "uid" : "b78fdd68c039d54f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1586517621600,
+      "stop" : 1586517621600,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_is_prime[case2]",
+    "uid" : "e53140c4f3afcf4e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586517622022,
+      "stop" : 1586517622022,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "True", "13" ]
+  }, {
+    "name" : "test_is_prime[case1]",
+    "uid" : "f17dda98dedfba4b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586517622022,
+      "stop" : 1586517622022,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "False", "1" ]
+  }, {
+    "name" : "test_is_prime[case3]",
+    "uid" : "e40ea155b755830a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586517622037,
+      "stop" : 1586517622037,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "False", "4" ]
+  }, {
+    "name" : "test_search",
+    "uid" : "830e84ca1ff9da6c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586517622053,
+      "stop" : 1586517630607,
+      "duration" : 8554
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "用户功能",
+    "children" : [ {
+      "name" : "百度搜索",
+      "children" : [ {
+        "name" : "test_baidu_search_case",
+        "uid" : "54e7b7194c7b0e7c",
+        "parentUid" : "73460bca508d09185b0dbbcf124f15f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586517630623,
+          "stop" : 1586517634687,
+          "duration" : 4064
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73460bca508d09185b0dbbcf124f15f6"
+    } ],
+    "uid" : "32c02cc330f3250085cd57cce54fa685"
+  }, {
+    "name" : "百度搜索设置",
+    "children" : [ {
+      "name" : "test_baidu_search_setting",
+      "uid" : "e1bdeb83f8c45973",
+      "parentUid" : "bcb934490d85126a87af7ca694509e92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586517634687,
+        "stop" : 1586517634687,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bcb934490d85126a87af7ca694509e92"
+  } ]
+}

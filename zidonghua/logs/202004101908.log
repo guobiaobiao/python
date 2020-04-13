@@ -1,0 +1,6 @@
+2020-04-10 19:08:50,861 -BasePage -INFO -Open page with url https://www.baidu.com
+2020-04-10 19:08:50,873 -BasePage -INFO -Element Found with locator: kw locator_type id
+2020-04-10 19:08:51,026 -BasePage -INFO -send data on element with locator: kw locator_type: id
+2020-04-10 19:08:51,040 -BasePage -INFO -Element Found with locator: su locator_type id
+2020-04-10 19:08:51,206 -BasePage -INFO -Click on element with locator: su locator_type: id
+2020-04-10 19:09:02,084 -root -INFO -test end! Generate test report

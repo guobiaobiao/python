@@ -1,0 +1,5 @@
+INFO     BasePage:base.py:29 Open page with url https://www.baidu.com
+INFO     BasePage:base.py:68 Element Found with locator: kw locator_type id
+INFO     BasePage:base.py:122 send data on element with locator: kw locator_type: id
+INFO     BasePage:base.py:68 Element Found with locator: su locator_type id
+INFO     BasePage:base.py:111 Click on element with locator: su locator_type: id

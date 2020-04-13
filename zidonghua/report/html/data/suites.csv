@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcases.test_is_prime#test_is_prime","0",""
+"passed","testcases.test_is_prime#test_is_prime","0",""
+"failed","testcases.test_inc#test_answer","0",""
+"passed","testcases.test_is_prime#test_is_prime","0",""
+"passed","testcases.test_sample.TestBaiDuSearch#test_search","8554",""
+"passed","testcases.test_search.TestBaiduSerch#test_baidu_search_setting","0",""
+"passed","testcases.test_search.TestBaiduSerch#test_baidu_search_case","4064",""
